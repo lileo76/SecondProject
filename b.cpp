@@ -7,3 +7,6 @@ six line
 seven line
 eight line
 nine line
+
+test checkout 1
+test checkout 2
